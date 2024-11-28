@@ -1,5 +1,5 @@
 # This is a very simple script to find same pixel in an image. Still working on. not yet tested.
-#
+# 
 from PIL import Image
 from typing import List
 import copy
